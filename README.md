@@ -16,6 +16,6 @@ How to train & test
 
 2.run testSRnet_result.m for test result.
 
-3.If you want to train it by yourself, you may download my data and use prepare_ur_data.m to produce imdb.mat which include every picture path.
+3.If you want to train it by yourself, you prepare your own data set.
 
 4.Use train_SRnet.m to have fun~
