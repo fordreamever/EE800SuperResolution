@@ -9,7 +9,9 @@ and finally complete the processing of high-definition image.
 
 
 
+
 How to train & test
+
 1.You may compile matconvnet first by running gpu_compile.m (you need to change some setting in it)
 
 2.run testSRnet_result.m for test result.
